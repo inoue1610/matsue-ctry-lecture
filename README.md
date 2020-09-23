@@ -1,1 +1,2 @@
 # matsue-ctry-lecture
+松江高専　Ruby講義
